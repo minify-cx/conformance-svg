@@ -1,0 +1,9 @@
+{
+  "wpt": {
+    "type": "git",
+    "url": "https://github.com/web-platform-tests/wpt.git",
+    "revision": "aed18189e54793ee12286eb96509e87df27f52dd",
+    "path": ".state/upstreams/wpt",
+    "sparse": ["svg"]
+  }
+}
