@@ -1,0 +1,7086 @@
+{
+  "counts": {
+    "pass": 1176
+  },
+  "duration_seconds": 0.896,
+  "eligibility": {
+    "eligible": 1176,
+    "excluded": {
+      "doctype-or-parser-inapplicable": 6,
+      "server-or-tentative-fixture": 39,
+      "support-or-vendored-path": 37
+    }
+  },
+  "format": "svg",
+  "generated_at": "2026-09-09T20:17:40Z",
+  "minifier": {
+    "path": "/workspace/scratch/04e13b047c72/conformance-work/minify/minify"
+  },
+  "results": [
+    {
+      "id": "3577f942306a9b3b",
+      "source": "svg/animations/animate-rewind-freeze-indefinite.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "78b76613f53ae30a",
+      "source": "svg/animations/animated-classname-crash.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "80048527b87fcc60",
+      "source": "svg/animations/begin-event.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3d6ac348862b11e6",
+      "source": "svg/animations/end-event.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d56ec375c842060c",
+      "source": "svg/animations/onbegin.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "599cc287b1963a4b",
+      "source": "svg/animations/onend.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4b76d75fd0499b83",
+      "source": "svg/animations/onrepeat.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c73ba364d968251d",
+      "source": "svg/animations/reference/green-100x100.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "366a24036fc62e1c",
+      "source": "svg/animations/repeat-event.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f2879623b3854345",
+      "source": "svg/animations/repeat-iteration-event-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "dd2342aaa3e34e1f",
+      "source": "svg/animations/repeat-iteration-event-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a86f2af5973da75a",
+      "source": "svg/animations/repeat-iteration-event-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "86e3c2077c548040",
+      "source": "svg/animations/repeat-iteration-event-004.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3515a6fbed085087",
+      "source": "svg/animations/repeat-iteration-event-005.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3ae310e16f329970",
+      "source": "svg/animations/repeat-iteration-event-006.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d87bc55bf7aacdfc",
+      "source": "svg/animations/scripted/animateMotion-animated-line.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0563e4b64e1a7efe",
+      "source": "svg/animations/scripted/clear-mapped-animation.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b0c53b344df523f4",
+      "source": "svg/animations/scripted/end-element-on-inactive-element.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ba709f0a92ada8e7",
+      "source": "svg/as-image/external-resource-inline-sheet-helper.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4782206cad2e8fe0",
+      "source": "svg/as-image/sprite-sheet-fractional-size-helper.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a42c1aa4f585591c",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-001-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "16a88c3024465dea",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "18b511f3a6513f95",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-002-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "974a627eb66529c3",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5f41101a212c2146",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-003-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1181a2e1af4996fc",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "223347435fdb1d2b",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-marker-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "80c27d86b6b1716e",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-marker-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9964e6a86b6ea5e1",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-marker.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c6a5b9e400ed751e",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-pattern-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "55e5da86241f7540",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-pattern.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3476015881a5210c",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5e0a670bd9268a03",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-symbol-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6a2ecd30c717c4f9",
+      "source": "svg/coordinate-systems/viewBox-zero-disables-rendering-symbol.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c22a04dfbebebb46",
+      "source": "svg/embedded/image-embedding-svg-viewref-with-viewbox.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "85ebd00c52e05822",
+      "source": "svg/embedded/image-embedding-svg-with-auto-height.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fb0eb5a2f34bfdc1",
+      "source": "svg/embedded/image-embedding-svg-with-fractional-viewbox.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8fe6f526c90679ed",
+      "source": "svg/embedded/image-embedding-svg-with-viewport-units-inline-style.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f45f3889f188e942",
+      "source": "svg/embedded/image-embedding-svg-with-viewport-units.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "46cf015736da2dd1",
+      "source": "svg/embedded/image-fractional-width-vertical-fidelity.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ec8ee21e227d0beb",
+      "source": "svg/embedded/image-large-bitmap-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "640c4aa8a0814981",
+      "source": "svg/embedded/image-large-bitmap.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7cc832ddb9c1f02a",
+      "source": "svg/embedded/image-modify-href-1.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4f320287295e9cbf",
+      "source": "svg/embedded/image-modify-href-2.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fe38c6d905650e61",
+      "source": "svg/embedded/image-modify-href-3.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "59b36dc6a40597b2",
+      "source": "svg/embedded/image-modify-href-4.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "15de9f358375dfde",
+      "source": "svg/embedded/image-remove-href-1.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2ea719656d2fada6",
+      "source": "svg/embedded/image-remove-href-2.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bd9d2e3606a63f4e",
+      "source": "svg/embedded/image-remove-href-3.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a48d1c1c59538b92",
+      "source": "svg/embedded/reference/green-rect-100x100.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "55b173421d1a76ed",
+      "source": "svg/extensibility/foreignObject/properties.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8ad74dc395fece9c",
+      "source": "svg/extensibility/interfaces/foreignObject-graphics.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "aedd879443deb2ed",
+      "source": "svg/fonts/font-size-adjust-scale-text-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2bb96ba6c1b5de3b",
+      "source": "svg/fonts/font-size-adjust-scale-text.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "990a6bfc34101c44",
+      "source": "svg/geometry/inheritance.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "06b2175026976442",
+      "source": "svg/geometry/parsing/cx-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1dc69ee99cd3e7aa",
+      "source": "svg/geometry/parsing/cx-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0955e539bc0e6725",
+      "source": "svg/geometry/parsing/cx-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "60c612748444d7ba",
+      "source": "svg/geometry/parsing/cx-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7c7b594397aeac6d",
+      "source": "svg/geometry/parsing/cx-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "38afd60e742520eb",
+      "source": "svg/geometry/parsing/cy-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3e71c0d0c73db97d",
+      "source": "svg/geometry/parsing/cy-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a7f46637d3e9616f",
+      "source": "svg/geometry/parsing/cy-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9f2e0e997a2f96b0",
+      "source": "svg/geometry/parsing/cy-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3842a60f9e39bd1f",
+      "source": "svg/geometry/parsing/cy-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "594660dbf777f188",
+      "source": "svg/geometry/parsing/ellipse-rx-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "83cfb62b0b619581",
+      "source": "svg/geometry/parsing/ellipse-rx-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "853942b51cc6ae26",
+      "source": "svg/geometry/parsing/ellipse-ry-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f88fcd15d773c9d1",
+      "source": "svg/geometry/parsing/ellipse-ry-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "564e7745ff135606",
+      "source": "svg/geometry/parsing/height-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7d7dc5246ff57a0c",
+      "source": "svg/geometry/parsing/height-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "60c042bef44e94fb",
+      "source": "svg/geometry/parsing/height-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1c058451586ca9b3",
+      "source": "svg/geometry/parsing/negative-presentation-attribute-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ed9eaa86ac7f536c",
+      "source": "svg/geometry/parsing/r-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "32a6239cbbe42806",
+      "source": "svg/geometry/parsing/r-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5cbdce14a2ab6860",
+      "source": "svg/geometry/parsing/r-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "05b7b8d20b4c0860",
+      "source": "svg/geometry/parsing/r-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a22a21488f748721",
+      "source": "svg/geometry/parsing/r-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e0d8c24c8db0c505",
+      "source": "svg/geometry/parsing/rx-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "24da92e15c7b4572",
+      "source": "svg/geometry/parsing/rx-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c62e01902f095ad5",
+      "source": "svg/geometry/parsing/rx-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6d895663c9f84083",
+      "source": "svg/geometry/parsing/rx-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a0930efc551fc353",
+      "source": "svg/geometry/parsing/rx-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "854f24eabe8f3b2f",
+      "source": "svg/geometry/parsing/ry-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "652af6cc64dbc562",
+      "source": "svg/geometry/parsing/ry-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "11e8a5d10f0f73fc",
+      "source": "svg/geometry/parsing/ry-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a1a0d8d81309c6ee",
+      "source": "svg/geometry/parsing/ry-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a5611de1c5ba2c8c",
+      "source": "svg/geometry/parsing/ry-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2428e279efe1c377",
+      "source": "svg/geometry/parsing/sizing-properties-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "77333f086ec3df13",
+      "source": "svg/geometry/parsing/width-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6db86ba9895f79fb",
+      "source": "svg/geometry/parsing/width-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bf4007ce5d0995c0",
+      "source": "svg/geometry/parsing/width-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "dc9984aa506249fc",
+      "source": "svg/geometry/parsing/x-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1ca2df915959d1e8",
+      "source": "svg/geometry/parsing/x-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6193d40fac4056b9",
+      "source": "svg/geometry/parsing/x-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "aa5c74b822f82938",
+      "source": "svg/geometry/parsing/x-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0701936c14368459",
+      "source": "svg/geometry/parsing/x-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bc6e477fa784f6b7",
+      "source": "svg/geometry/parsing/y-attribute-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "782ff40bda8fa42d",
+      "source": "svg/geometry/parsing/y-attribute-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7410bb458fdd646b",
+      "source": "svg/geometry/parsing/y-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0eadefa3da03319b",
+      "source": "svg/geometry/parsing/y-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5688746f7e80a8bd",
+      "source": "svg/geometry/parsing/y-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fab31c1538c3bfb5",
+      "source": "svg/geometry/reftests/circle-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "89d4064a2e9000b4",
+      "source": "svg/geometry/reftests/circle-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c3b2d0c878dbd511",
+      "source": "svg/geometry/reftests/circle-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f81f85d9d2b9987c",
+      "source": "svg/geometry/reftests/circle-004.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a72d733ded8bc564",
+      "source": "svg/geometry/reftests/circle-005.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "81a3bbaf9fac72bb",
+      "source": "svg/geometry/reftests/circle-006-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9a6bba5cf179a1c4",
+      "source": "svg/geometry/reftests/circle-006.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e0c2df412c5f3f28",
+      "source": "svg/geometry/reftests/circle-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0c868fe3d7e45bbb",
+      "source": "svg/geometry/reftests/ellipse-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c3e83cb9792ffcbf",
+      "source": "svg/geometry/reftests/ellipse-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0da70290b9751b24",
+      "source": "svg/geometry/reftests/ellipse-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "50ccca9c3e817f44",
+      "source": "svg/geometry/reftests/ellipse-004.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a0b600302d2bf3da",
+      "source": "svg/geometry/reftests/ellipse-005.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "33208c2daf9c89ae",
+      "source": "svg/geometry/reftests/ellipse-006.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3e0cc450c1410283",
+      "source": "svg/geometry/reftests/ellipse-007-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c3fed165586b4ca0",
+      "source": "svg/geometry/reftests/ellipse-007.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fb71e6c3fb2db57a",
+      "source": "svg/geometry/reftests/ellipse-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "53c3529fb520dd40",
+      "source": "svg/geometry/reftests/not-rendered-200-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "88ce618e6b67377f",
+      "source": "svg/geometry/reftests/percentage-attribute.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fcf3422921ca9c01",
+      "source": "svg/geometry/reftests/percentage-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3fea68e5ee554e34",
+      "source": "svg/geometry/reftests/percentage.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c049c2a792fc338b",
+      "source": "svg/geometry/reftests/rect-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a57125a5845c65d1",
+      "source": "svg/geometry/reftests/rect-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ea54a9dc8d8b1098",
+      "source": "svg/geometry/reftests/rect-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "de58d39a9f3764ea",
+      "source": "svg/geometry/reftests/rect-004.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4d40c576df874fde",
+      "source": "svg/geometry/reftests/rect-005-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "22f167f34a59c426",
+      "source": "svg/geometry/reftests/rect-005.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "62b0bcd08313b99c",
+      "source": "svg/geometry/reftests/rect-006-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "930e36dd3e9d70c3",
+      "source": "svg/geometry/reftests/rect-006.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7395ceb8b8d442ae",
+      "source": "svg/geometry/reftests/rect-007-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "aa9f0507b729de29",
+      "source": "svg/geometry/reftests/rect-007-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "69c2808c2c7a0d7e",
+      "source": "svg/geometry/reftests/rect-007.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f3007e654d6d168f",
+      "source": "svg/geometry/reftests/rect-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f64464a3caa9beb4",
+      "source": "svg/import/animate-dom-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "176fa2fdb0875462",
+      "source": "svg/import/animate-dom-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8d2386fe7a8fcc1d",
+      "source": "svg/import/animate-elem-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "16a95288881163e7",
+      "source": "svg/import/animate-elem-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8eb5191eac508971",
+      "source": "svg/import/animate-elem-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8af1c6c0a0238fa2",
+      "source": "svg/import/animate-elem-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a7e6c451f12404b0",
+      "source": "svg/import/animate-elem-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3b8bbfd8458ef708",
+      "source": "svg/import/animate-elem-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4cde28f5d0c0a991",
+      "source": "svg/import/animate-elem-08-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1bbe6b88255c4e35",
+      "source": "svg/import/animate-elem-09-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2465a53ad3841c9c",
+      "source": "svg/import/animate-elem-10-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cf117c37b5d58a0d",
+      "source": "svg/import/animate-elem-11-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "56a251e0019f40be",
+      "source": "svg/import/animate-elem-12-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2fb795b23003c136",
+      "source": "svg/import/animate-elem-13-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "77fd092d18f82a14",
+      "source": "svg/import/animate-elem-14-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "13028b837ff8c2c6",
+      "source": "svg/import/animate-elem-15-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "84f4d6b8b0e2e774",
+      "source": "svg/import/animate-elem-17-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c201813566e15ff4",
+      "source": "svg/import/animate-elem-19-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c57946f9c15610c5",
+      "source": "svg/import/animate-elem-20-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5bf9dbb1a3f164b8",
+      "source": "svg/import/animate-elem-21-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6763caad02e61599",
+      "source": "svg/import/animate-elem-22-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "262eee1b494f1553",
+      "source": "svg/import/animate-elem-23-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1ba7f9d1143631cd",
+      "source": "svg/import/animate-elem-24-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bca98bd157e161c0",
+      "source": "svg/import/animate-elem-25-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "94185ff9fdee2a7a",
+      "source": "svg/import/animate-elem-26-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "926bb11f9c0d4b43",
+      "source": "svg/import/animate-elem-27-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f8fdc9ea06eff9b1",
+      "source": "svg/import/animate-elem-28-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "20e6025bd2548747",
+      "source": "svg/import/animate-elem-29-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6a1c1bfd0d968858",
+      "source": "svg/import/animate-elem-30-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1d7f2bf02af99ba0",
+      "source": "svg/import/animate-elem-31-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8d3185c86965093e",
+      "source": "svg/import/animate-elem-32-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "aa9db178b2c30e9f",
+      "source": "svg/import/animate-elem-33-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0a15e10b38d43fe2",
+      "source": "svg/import/animate-elem-34-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8a6503f503b67b59",
+      "source": "svg/import/animate-elem-35-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "53fc5ee4b10a7ca0",
+      "source": "svg/import/animate-elem-36-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "547231831995ed09",
+      "source": "svg/import/animate-elem-37-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ba74ca9e7a990fd2",
+      "source": "svg/import/animate-elem-38-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cf272b0a2116f164",
+      "source": "svg/import/animate-elem-39-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "73a4a14e2eabb1d4",
+      "source": "svg/import/animate-elem-40-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c8bf030618d4791d",
+      "source": "svg/import/animate-elem-41-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7a1240d4e947f99e",
+      "source": "svg/import/animate-elem-44-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b0768092b382a1f9",
+      "source": "svg/import/animate-elem-46-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d179ad866f7f78ca",
+      "source": "svg/import/animate-elem-52-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7d5ddcae87ea2d42",
+      "source": "svg/import/animate-elem-53-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e3b6b2cb228baefd",
+      "source": "svg/import/animate-elem-60-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7b4bec6114d5c1b2",
+      "source": "svg/import/animate-elem-61-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "79f741d85358718c",
+      "source": "svg/import/animate-elem-62-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ff97319717ec0d72",
+      "source": "svg/import/animate-elem-63-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "129a5dce1f8a4034",
+      "source": "svg/import/animate-elem-64-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "62f9f6ee4a00bbe7",
+      "source": "svg/import/animate-elem-65-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "36f52f0176410b5d",
+      "source": "svg/import/animate-elem-66-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "813308a41291b2d3",
+      "source": "svg/import/animate-elem-67-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "16ae02748ed9840d",
+      "source": "svg/import/animate-elem-68-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3f6736d758dacf21",
+      "source": "svg/import/animate-elem-69-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a3007a121d37d3e3",
+      "source": "svg/import/animate-elem-70-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3e244e4a58924e0b",
+      "source": "svg/import/animate-elem-77-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a4fe5ae82a1bc5a9",
+      "source": "svg/import/animate-elem-78-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6ee26f86905c69c1",
+      "source": "svg/import/animate-elem-80-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1529a49960be1a9f",
+      "source": "svg/import/animate-elem-81-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "221d7f97cd25d371",
+      "source": "svg/import/animate-elem-82-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c33a65940a4cf9ae",
+      "source": "svg/import/animate-elem-83-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "27dc0f6d82fdb575",
+      "source": "svg/import/animate-elem-84-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ecfaa8827ca6b265",
+      "source": "svg/import/animate-elem-85-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d8d3a897296d4ec8",
+      "source": "svg/import/animate-elem-86-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "568c92807ba14187",
+      "source": "svg/import/animate-elem-87-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ce61c9a2c5c39e94",
+      "source": "svg/import/animate-elem-88-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "eb169d4f0bb55e8a",
+      "source": "svg/import/animate-elem-89-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d7b3067d9f31f04c",
+      "source": "svg/import/animate-elem-90-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bdeb55d9e42e369f",
+      "source": "svg/import/animate-elem-91-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ef506e183f7aaa58",
+      "source": "svg/import/animate-elem-92-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "39bcdcca1fd5baaa",
+      "source": "svg/import/animate-interact-events-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9120bb811b3e47b2",
+      "source": "svg/import/animate-interact-pevents-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "14ae4501c30d828f",
+      "source": "svg/import/animate-interact-pevents-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8f71938352f80d14",
+      "source": "svg/import/animate-interact-pevents-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6f0e5362176a0f5b",
+      "source": "svg/import/animate-interact-pevents-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "67f943685753e212",
+      "source": "svg/import/animate-pservers-grad-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d5ed4fb03c12c055",
+      "source": "svg/import/animate-script-elem-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e6e7040aa897c095",
+      "source": "svg/import/animate-struct-dom-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f5b67f96b7ef864a",
+      "source": "svg/import/color-prof-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "144d23d51c54ad2d",
+      "source": "svg/import/color-prop-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fc762634d9f6f86a",
+      "source": "svg/import/color-prop-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d11e7106db87e336",
+      "source": "svg/import/color-prop-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "513a0cbf7a46bf94",
+      "source": "svg/import/color-prop-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "09481b70f82bcec1",
+      "source": "svg/import/color-prop-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "dee2913615f6e36b",
+      "source": "svg/import/conform-viewers-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e93dce3b991bd070",
+      "source": "svg/import/conform-viewers-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "86a84a0c88c90f86",
+      "source": "svg/import/coords-coord-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "acbe2d89b007bd27",
+      "source": "svg/import/coords-coord-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "03361da143035f8b",
+      "source": "svg/import/coords-dom-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "30a8d15da8f81887",
+      "source": "svg/import/coords-dom-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c7d060bd40cae6cb",
+      "source": "svg/import/coords-dom-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4f21fc85d27fdfb3",
+      "source": "svg/import/coords-dom-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5500df8be74c7393",
+      "source": "svg/import/coords-trans-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f4ee617297bc556b",
+      "source": "svg/import/coords-trans-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e2c33f4e080a7091",
+      "source": "svg/import/coords-trans-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8b5a47e80131e9e9",
+      "source": "svg/import/coords-trans-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "eb0a9485d8219864",
+      "source": "svg/import/coords-trans-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "60802e29c771779e",
+      "source": "svg/import/coords-trans-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "19c48faafe18b9b6",
+      "source": "svg/import/coords-trans-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e87d7a4502120f8a",
+      "source": "svg/import/coords-trans-08-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8cdcda8409237371",
+      "source": "svg/import/coords-trans-09-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ba2c43e90c346199",
+      "source": "svg/import/coords-trans-10-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "76a5d1abfcbcf4a6",
+      "source": "svg/import/coords-trans-11-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8340d78b2e4b849b",
+      "source": "svg/import/coords-trans-12-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "80b4540595b4448f",
+      "source": "svg/import/coords-trans-13-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3c9017bc28cfc680",
+      "source": "svg/import/coords-trans-14-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5e65f413bf3aa778",
+      "source": "svg/import/coords-transformattr-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "04b681bb68844f28",
+      "source": "svg/import/coords-transformattr-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "174b2a988a18d2c5",
+      "source": "svg/import/coords-transformattr-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a025b1d8ed89a4e3",
+      "source": "svg/import/coords-transformattr-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1b620bedf1aaf2f1",
+      "source": "svg/import/coords-transformattr-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "562c86d184095f69",
+      "source": "svg/import/coords-units-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3ec5b19e810c7bfb",
+      "source": "svg/import/coords-units-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d62364190a3bde79",
+      "source": "svg/import/coords-units-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "dde1bad47b14e925",
+      "source": "svg/import/coords-viewattr-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "60383a1019161a39",
+      "source": "svg/import/extend-namespace-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "81ab158a805715d2",
+      "source": "svg/import/filters-background-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b7ed3bf311094b6c",
+      "source": "svg/import/filters-blend-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d85ee4b1535546f2",
+      "source": "svg/import/filters-color-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "940c33a148fbcff6",
+      "source": "svg/import/filters-color-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b09fffb6b1ce5f1d",
+      "source": "svg/import/filters-composite-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c41b1e86e96581fb",
+      "source": "svg/import/filters-composite-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6d276e5d300da2f7",
+      "source": "svg/import/filters-composite-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fb7f6d6db4dbdcf3",
+      "source": "svg/import/filters-composite-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ad253b7a54a522ed",
+      "source": "svg/import/filters-comptran-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6292ef6cdcb470ca",
+      "source": "svg/import/filters-conv-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "093a4de801c3176b",
+      "source": "svg/import/filters-conv-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "efe502b77b3a07b8",
+      "source": "svg/import/filters-conv-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "09d14570c27d4d84",
+      "source": "svg/import/filters-conv-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "357f4bb8629e0dc2",
+      "source": "svg/import/filters-conv-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4b79017a5ef38557",
+      "source": "svg/import/filters-diffuse-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2ee125cfa634d29b",
+      "source": "svg/import/filters-displace-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b38e422ec39ec66f",
+      "source": "svg/import/filters-displace-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "431421a9a7e68dbf",
+      "source": "svg/import/filters-example-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "07235b19727d36e7",
+      "source": "svg/import/filters-felem-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2fb14dd3e744c3d9",
+      "source": "svg/import/filters-felem-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f5a20a3c5a96262f",
+      "source": "svg/import/filters-gauss-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5f118f5cdf1ad764",
+      "source": "svg/import/filters-gauss-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e9ea396e25b690c5",
+      "source": "svg/import/filters-gauss-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3bd1b67407ad2d36",
+      "source": "svg/import/filters-image-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9fb2112e835d4d7d",
+      "source": "svg/import/filters-image-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8789e6fd18781e38",
+      "source": "svg/import/filters-image-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d53aff55198e14b8",
+      "source": "svg/import/filters-image-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1c6819b8906d22a6",
+      "source": "svg/import/filters-image-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "508b05daab09c65d",
+      "source": "svg/import/filters-light-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5e5b823b3437c932",
+      "source": "svg/import/filters-light-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1a393de2d9acc278",
+      "source": "svg/import/filters-light-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "20b6be44bc67bdc1",
+      "source": "svg/import/filters-light-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8b407acc20733f8a",
+      "source": "svg/import/filters-light-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bd116ae130e6d030",
+      "source": "svg/import/filters-morph-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fef7f9218c7fb265",
+      "source": "svg/import/filters-offset-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f19fd5a84f0515e5",
+      "source": "svg/import/filters-offset-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3d8fcdeb0a83b789",
+      "source": "svg/import/filters-overview-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b3770ca497811ae1",
+      "source": "svg/import/filters-overview-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e9816cca876deb4d",
+      "source": "svg/import/filters-overview-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c5aad68ea3177851",
+      "source": "svg/import/filters-specular-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "20b03fe69dac7cbd",
+      "source": "svg/import/filters-tile-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5dcbe7ab4be9b0dd",
+      "source": "svg/import/filters-turb-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "785ffebbb0b6cb18",
+      "source": "svg/import/filters-turb-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "aa7343981638e77e",
+      "source": "svg/import/fonts-desc-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0f485801a2f51a09",
+      "source": "svg/import/fonts-desc-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4e7c0d3d36c3e3fc",
+      "source": "svg/import/fonts-desc-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7f35f1356d27bb91",
+      "source": "svg/import/fonts-desc-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0f104fc05c1d34d0",
+      "source": "svg/import/fonts-desc-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8e679bd2e9605de0",
+      "source": "svg/import/fonts-elem-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "117c535176e59baa",
+      "source": "svg/import/fonts-elem-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b054653c785e83f9",
+      "source": "svg/import/fonts-elem-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "22a85abb06803b48",
+      "source": "svg/import/fonts-elem-04-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a6f47df131edb61f",
+      "source": "svg/import/fonts-elem-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2eb04f927772d728",
+      "source": "svg/import/fonts-elem-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9b99ec04e983a70d",
+      "source": "svg/import/fonts-elem-07-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3ef48b1fa96d9b97",
+      "source": "svg/import/fonts-glyph-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ffa0bfd90cde3076",
+      "source": "svg/import/fonts-glyph-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7251bd8ba2004cf7",
+      "source": "svg/import/fonts-glyph-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "17af432d5e7be030",
+      "source": "svg/import/fonts-kern-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "98fb720c7af0c301",
+      "source": "svg/import/fonts-overview-201-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cde1db56c9aa481e",
+      "source": "svg/import/imp-path-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8a1745a3bd57a25a",
+      "source": "svg/import/interact-cursor-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ebac036c2c8b0978",
+      "source": "svg/import/interact-dom-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f9279f4dfe6e591f",
+      "source": "svg/import/interact-events-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5b7185073c29363b",
+      "source": "svg/import/interact-events-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fd0c09deff98359d",
+      "source": "svg/import/interact-events-202-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "04a13417ae0cd26d",
+      "source": "svg/import/interact-events-203-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c8993a3514620b39",
+      "source": "svg/import/interact-order-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "54a2111bb71398ca",
+      "source": "svg/import/interact-order-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cab22a1074d8a732",
+      "source": "svg/import/interact-order-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5f9feb8e1a5393fb",
+      "source": "svg/import/interact-pevents-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0a9c35edf3489104",
+      "source": "svg/import/interact-pevents-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f6a80b0558bad0d6",
+      "source": "svg/import/interact-pevents-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ff82ab99959f1cd9",
+      "source": "svg/import/interact-pevents-05-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1b57439f081a2cdd",
+      "source": "svg/import/interact-pevents-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "73cb02fa10cfb59a",
+      "source": "svg/import/interact-pevents-08-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9e29f2805a206f69",
+      "source": "svg/import/interact-pevents-09-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e0ce477229984ee9",
+      "source": "svg/import/interact-pevents-10-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "96d2be40c393e7c8",
+      "source": "svg/import/interact-pointer-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c3f21253ec3bdf16",
+      "source": "svg/import/interact-pointer-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8a04e383c1597dbf",
+      "source": "svg/import/interact-pointer-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e6a3b532cd88bf89",
+      "source": "svg/import/interact-pointer-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f253884a70c3a6c8",
+      "source": "svg/import/interact-zoom-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4b2a2e8df61b5ddb",
+      "source": "svg/import/interact-zoom-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8abf21416644d14a",
+      "source": "svg/import/interact-zoom-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "58b59a2d4d634fda",
+      "source": "svg/import/linking-a-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2a7c4ced1c0ba013",
+      "source": "svg/import/linking-a-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "59b618c36a61512e",
+      "source": "svg/import/linking-a-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "786411ef74df4018",
+      "source": "svg/import/linking-a-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8153a74558d2d24e",
+      "source": "svg/import/linking-a-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c3c0e10736e9dd05",
+      "source": "svg/import/linking-a-08-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5ff7b7b9b5bfc408",
+      "source": "svg/import/linking-a-09-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b36eec8e70b8ad93",
+      "source": "svg/import/linking-a-10-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "830bc77a75bbfb04",
+      "source": "svg/import/linking-frag-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "452ac9c27c055a12",
+      "source": "svg/import/linking-uri-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "12a79a5f4087bfa3",
+      "source": "svg/import/linking-uri-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a9b0da0fc75e1bf1",
+      "source": "svg/import/linking-uri-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2b1f4dee1f71bbc5",
+      "source": "svg/import/masking-filter-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1c88bb28a28d3894",
+      "source": "svg/import/masking-intro-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "553d8f45f39889a4",
+      "source": "svg/import/masking-mask-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ac03894bc63a5aa8",
+      "source": "svg/import/masking-mask-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e49fb3d66f7ca8c0",
+      "source": "svg/import/masking-opacity-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "523d8c47e72fc001",
+      "source": "svg/import/masking-path-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d34de80267871c93",
+      "source": "svg/import/masking-path-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0cf4eb3d02526376",
+      "source": "svg/import/masking-path-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "95da15b51c4629fa",
+      "source": "svg/import/masking-path-04-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8e783d718e8d06aa",
+      "source": "svg/import/masking-path-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2c08435a69b841e7",
+      "source": "svg/import/masking-path-06-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3e2a444611fbf8d4",
+      "source": "svg/import/masking-path-07-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "69e99b0c5d8acbb4",
+      "source": "svg/import/masking-path-08-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c9a92b53c79c3942",
+      "source": "svg/import/masking-path-09-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2aec2f219682cdae",
+      "source": "svg/import/masking-path-10-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "eed6a05871db5674",
+      "source": "svg/import/masking-path-11-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9a072360aacdfdb1",
+      "source": "svg/import/masking-path-12-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3f2bec1c4946ffc0",
+      "source": "svg/import/masking-path-13-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cff10a94bcca65c8",
+      "source": "svg/import/masking-path-14-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2bf366477c9f4b86",
+      "source": "svg/import/metadata-example-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e770d32976ff4e3e",
+      "source": "svg/import/painting-control-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3de01d852927bc09",
+      "source": "svg/import/painting-control-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "672e79339e5b421f",
+      "source": "svg/import/painting-control-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "433a78cf6d4b59ea",
+      "source": "svg/import/painting-control-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9d6f551d5cc345d9",
+      "source": "svg/import/painting-control-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5720e202322dc85a",
+      "source": "svg/import/painting-control-06-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "affaaeaf2d846d6c",
+      "source": "svg/import/painting-fill-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "58e6c2e458b196bb",
+      "source": "svg/import/painting-fill-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cec75c8b30b96468",
+      "source": "svg/import/painting-fill-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e927c267d9e196c8",
+      "source": "svg/import/painting-fill-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d3271cd69e44af8c",
+      "source": "svg/import/painting-fill-05-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a89b7a667ae2e344",
+      "source": "svg/import/painting-render-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1bf1dcd90db3609a",
+      "source": "svg/import/painting-render-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6698aaf3ecffc3c7",
+      "source": "svg/import/painting-stroke-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f48fc7f6b1c93d6f",
+      "source": "svg/import/painting-stroke-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6343782e045db083",
+      "source": "svg/import/painting-stroke-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d31ffbb4067bf239",
+      "source": "svg/import/painting-stroke-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5f7117dae2609193",
+      "source": "svg/import/painting-stroke-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "90cc079cfc6bb29a",
+      "source": "svg/import/painting-stroke-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "22f834340da4d1e5",
+      "source": "svg/import/painting-stroke-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b827349d205d70c0",
+      "source": "svg/import/painting-stroke-08-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "03f866d2b9aa93a7",
+      "source": "svg/import/painting-stroke-09-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4892ef3653718dc0",
+      "source": "svg/import/painting-stroke-10-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "50d8722e8b18d31e",
+      "source": "svg/import/paths-data-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a8cf0d8d434713e4",
+      "source": "svg/import/paths-data-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "27be9ebc28bfa685",
+      "source": "svg/import/paths-data-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f9e68b3c6a57e59c",
+      "source": "svg/import/paths-data-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8c54143897b07e1a",
+      "source": "svg/import/paths-data-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "91991fbbc760a809",
+      "source": "svg/import/paths-data-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b0c019c7222ed0d0",
+      "source": "svg/import/paths-data-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "815691bee7c46ba7",
+      "source": "svg/import/paths-data-08-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2b8e6ac93d4682ef",
+      "source": "svg/import/paths-data-09-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7c29d209cfa11b46",
+      "source": "svg/import/paths-data-10-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "11e6a253a24904cd",
+      "source": "svg/import/paths-data-12-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4dd8273170ef4871",
+      "source": "svg/import/paths-data-13-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "de466a12eba6dd8f",
+      "source": "svg/import/paths-data-14-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "13886fd6f0538f30",
+      "source": "svg/import/paths-data-15-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "87094e4cc6821c38",
+      "source": "svg/import/paths-data-16-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "55ce4bf42761296a",
+      "source": "svg/import/paths-data-17-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3f8735b01ac13cfb",
+      "source": "svg/import/paths-data-18-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e9990ce5ac5ea446",
+      "source": "svg/import/paths-data-19-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7844a7a8ef0159f2",
+      "source": "svg/import/paths-data-20-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "715f83d978bb0788",
+      "source": "svg/import/paths-dom-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "667b60acfaade39f",
+      "source": "svg/import/paths-dom-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e79f75cec24b27a8",
+      "source": "svg/import/pservers-grad-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b63a9568760f0404",
+      "source": "svg/import/pservers-grad-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "354ee0ec7bd82cf3",
+      "source": "svg/import/pservers-grad-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a40682b2ed3a061c",
+      "source": "svg/import/pservers-grad-04-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "97c965750b71033e",
+      "source": "svg/import/pservers-grad-05-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7429d5bce6e02b86",
+      "source": "svg/import/pservers-grad-06-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a15525cfd6a0a016",
+      "source": "svg/import/pservers-grad-07-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2fc501dad9e1ef6d",
+      "source": "svg/import/pservers-grad-08-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9108d9f9f77d4fd7",
+      "source": "svg/import/pservers-grad-09-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "72b3441316bc511f",
+      "source": "svg/import/pservers-grad-10-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e59cc0ba21ffff32",
+      "source": "svg/import/pservers-grad-11-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "82ada899fdb58283",
+      "source": "svg/import/pservers-grad-12-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "63b948745d7ee3cf",
+      "source": "svg/import/pservers-grad-13-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "38fa58124878f920",
+      "source": "svg/import/pservers-grad-14-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "de3706ea5631d0f6",
+      "source": "svg/import/pservers-grad-15-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "055a666820d6d17f",
+      "source": "svg/import/pservers-grad-16-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9a4d9a5f01e37a54",
+      "source": "svg/import/pservers-grad-17-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "604eafd385ef18a5",
+      "source": "svg/import/pservers-grad-18-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0c788dc206b65d51",
+      "source": "svg/import/pservers-grad-20-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1700f954f26e692a",
+      "source": "svg/import/pservers-grad-21-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ad429407fc80aaa7",
+      "source": "svg/import/pservers-grad-22-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f35cdbb9d3840113",
+      "source": "svg/import/pservers-grad-23-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "683e8cdc4c794fc6",
+      "source": "svg/import/pservers-grad-24-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1579a8595e353601",
+      "source": "svg/import/pservers-grad-stops-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a3be1a310dbf60b2",
+      "source": "svg/import/pservers-pattern-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f1a0b734a9404134",
+      "source": "svg/import/pservers-pattern-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "eaf857e6003d7abe",
+      "source": "svg/import/pservers-pattern-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b9c883b5abf81c34",
+      "source": "svg/import/pservers-pattern-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "78d276958ed1022c",
+      "source": "svg/import/pservers-pattern-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "41f90f4e0a0b5914",
+      "source": "svg/import/pservers-pattern-06-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "34a5ba8984f57bf2",
+      "source": "svg/import/pservers-pattern-07-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "46850fa3227eec01",
+      "source": "svg/import/pservers-pattern-08-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cce98a87f8f200a1",
+      "source": "svg/import/pservers-pattern-09-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fd151c9e3f99867f",
+      "source": "svg/import/render-elems-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3e8f5992e50b63de",
+      "source": "svg/import/render-elems-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8be22cbb138b7c61",
+      "source": "svg/import/render-elems-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2f07e4136b9e3ff7",
+      "source": "svg/import/render-elems-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "941ad6b66249bdce",
+      "source": "svg/import/render-elems-08-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3775731d750fcdc0",
+      "source": "svg/import/render-groups-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "afa37bd117ed9fe5",
+      "source": "svg/import/render-groups-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "94aa3f28474f9cb1",
+      "source": "svg/import/script-handle-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e26079b0902b40ce",
+      "source": "svg/import/script-handle-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a2ed0a0c7ca73d43",
+      "source": "svg/import/script-handle-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d888546f3dc05584",
+      "source": "svg/import/script-handle-04-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e84ffee52c89c323",
+      "source": "svg/import/script-specify-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "68484c26b1d248e6",
+      "source": "svg/import/script-specify-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bfed91536118b84f",
+      "source": "svg/import/shapes-circle-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9b49517903ade0cb",
+      "source": "svg/import/shapes-circle-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7133b4f7ae9673e6",
+      "source": "svg/import/shapes-ellipse-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9240273e822eeee2",
+      "source": "svg/import/shapes-ellipse-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "583684ac821f3206",
+      "source": "svg/import/shapes-ellipse-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3c6f6789eb72db71",
+      "source": "svg/import/shapes-grammar-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "08b16bfc5e09694b",
+      "source": "svg/import/shapes-intro-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1ed5e679e9aa5058",
+      "source": "svg/import/shapes-intro-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c80ebc36fd4aab7c",
+      "source": "svg/import/shapes-line-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fe3f6790fdf517c8",
+      "source": "svg/import/shapes-line-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "999d63cd01ba4cab",
+      "source": "svg/import/shapes-polygon-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5a1108972873fee8",
+      "source": "svg/import/shapes-polygon-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c1f4111f94745c71",
+      "source": "svg/import/shapes-polygon-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f951491bf4e4237f",
+      "source": "svg/import/shapes-polyline-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "24a1e31f97604185",
+      "source": "svg/import/shapes-polyline-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "78b98a8eb8b292cf",
+      "source": "svg/import/shapes-rect-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cb8bf4f076a67eeb",
+      "source": "svg/import/shapes-rect-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f024cd2e62b17ed3",
+      "source": "svg/import/shapes-rect-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a42a9715cffdb56b",
+      "source": "svg/import/shapes-rect-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "23e35c6f03c7ee20",
+      "source": "svg/import/shapes-rect-06-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9db34bf1ba775199",
+      "source": "svg/import/shapes-rect-07-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "354fdebae06017ed",
+      "source": "svg/import/struct-cond-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5562255f8c33013c",
+      "source": "svg/import/struct-cond-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3a7d73a6543f52ef",
+      "source": "svg/import/struct-cond-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6a2ff9ebdf954a75",
+      "source": "svg/import/struct-cond-overview-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2e9f0cf095f6836c",
+      "source": "svg/import/struct-cond-overview-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1dd7b6790cda770f",
+      "source": "svg/import/struct-cond-overview-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d47635d87da3655f",
+      "source": "svg/import/struct-cond-overview-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a8cffef0d7414fc7",
+      "source": "svg/import/struct-defs-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a513f7e688c6f876",
+      "source": "svg/import/struct-dom-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6b8edd6656b003be",
+      "source": "svg/import/struct-dom-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0fe8a3b543de875c",
+      "source": "svg/import/struct-dom-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1bb83887aaee025d",
+      "source": "svg/import/struct-dom-04-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "12c6843d91209251",
+      "source": "svg/import/struct-dom-05-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a629ea16cb017cb9",
+      "source": "svg/import/struct-dom-06-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c5c0ae57e85c7558",
+      "source": "svg/import/struct-dom-07-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7103d8f1b6a1a738",
+      "source": "svg/import/struct-dom-08-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6ca9875f7cfe12b3",
+      "source": "svg/import/struct-dom-11-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8c3a188705c86f42",
+      "source": "svg/import/struct-dom-12-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e8987b2fe6442303",
+      "source": "svg/import/struct-dom-13-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fd10247c8021f8d4",
+      "source": "svg/import/struct-dom-14-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0c458c6f2e4bf001",
+      "source": "svg/import/struct-dom-15-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "97afcd8d0a8462d3",
+      "source": "svg/import/struct-dom-16-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d7dabe049cd857da",
+      "source": "svg/import/struct-dom-17-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1fd11b3836b2c39f",
+      "source": "svg/import/struct-dom-18-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c19fd2d3aec7afc2",
+      "source": "svg/import/struct-dom-19-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "58b41c4776ca83f3",
+      "source": "svg/import/struct-dom-20-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b8ee12ff22a5e4cd",
+      "source": "svg/import/struct-frag-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5e7f3ddc37bc82f5",
+      "source": "svg/import/struct-frag-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "682d85a106c0d1b8",
+      "source": "svg/import/struct-frag-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "952fd04ab4b7eeb5",
+      "source": "svg/import/struct-frag-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "34eb21c2773b1a5c",
+      "source": "svg/import/struct-frag-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "eec8572fe56e85a0",
+      "source": "svg/import/struct-frag-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b8f87f5bf1d495e1",
+      "source": "svg/import/struct-group-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "72bda0c27c08dc12",
+      "source": "svg/import/struct-group-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c6ddaef5d5084060",
+      "source": "svg/import/struct-group-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3fd9f8c66029f755",
+      "source": "svg/import/struct-image-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ef25294022227b9b",
+      "source": "svg/import/struct-image-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e9194f0d691b9253",
+      "source": "svg/import/struct-image-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3336930c998c0054",
+      "source": "svg/import/struct-image-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "348ff8ff9e4f16a4",
+      "source": "svg/import/struct-image-05-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "199c2d06b942e2bd",
+      "source": "svg/import/struct-image-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ed4339b8bbec85fb",
+      "source": "svg/import/struct-image-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "351ac31f9c5b9da6",
+      "source": "svg/import/struct-image-08-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bb8fb359f9da5286",
+      "source": "svg/import/struct-image-09-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0fa987d88bea79f2",
+      "source": "svg/import/struct-image-10-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4be875459fbbd93c",
+      "source": "svg/import/struct-image-11-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6a0ac9f5106b59c6",
+      "source": "svg/import/struct-image-12-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7dfbea7bba0dbad6",
+      "source": "svg/import/struct-image-13-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "664236d72ffa9580",
+      "source": "svg/import/struct-image-14-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7be4e840aaff4865",
+      "source": "svg/import/struct-image-15-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "478d10e76732bd73",
+      "source": "svg/import/struct-image-16-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "619a6578557e7711",
+      "source": "svg/import/struct-image-17-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d7fc26e0ba424556",
+      "source": "svg/import/struct-image-18-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "06121e0a7228c66e",
+      "source": "svg/import/struct-image-19-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "812f8187885850d6",
+      "source": "svg/import/struct-svg-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fdb94d27b13383b5",
+      "source": "svg/import/struct-svg-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "df2df9f5148d887f",
+      "source": "svg/import/struct-svg-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a2b5de372206314c",
+      "source": "svg/import/struct-symbol-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fd7f9bf1822e4571",
+      "source": "svg/import/struct-use-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "588cd62c864a2880",
+      "source": "svg/import/struct-use-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "846bc97f9c7d8a42",
+      "source": "svg/import/struct-use-04-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7c0399b3b04a98c3",
+      "source": "svg/import/struct-use-05-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "da0de70bfc30ebf7",
+      "source": "svg/import/struct-use-06-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "59c44b2ea0ac9725",
+      "source": "svg/import/struct-use-07-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "14e2ad36f5cd69fa",
+      "source": "svg/import/struct-use-08-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8ac9912904d62ebd",
+      "source": "svg/import/struct-use-09-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2f69509fbb821a53",
+      "source": "svg/import/struct-use-10-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c0be59f810133f2c",
+      "source": "svg/import/struct-use-11-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "44ea90c2dbf23ba5",
+      "source": "svg/import/struct-use-12-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "378d93838b023496",
+      "source": "svg/import/struct-use-13-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "41f9427d23472e2c",
+      "source": "svg/import/struct-use-14-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "433ec0df2e70c273",
+      "source": "svg/import/struct-use-15-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "640ab1a07a420c3d",
+      "source": "svg/import/styling-class-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bab72117f64456c8",
+      "source": "svg/import/styling-css-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6be63478c90e5223",
+      "source": "svg/import/styling-css-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e336a6a10801b542",
+      "source": "svg/import/styling-css-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "37579994a1b982d6",
+      "source": "svg/import/styling-css-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ec8fae1f6469fb83",
+      "source": "svg/import/styling-css-05-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "02d7769b630ace40",
+      "source": "svg/import/styling-css-06-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b555347e008d1967",
+      "source": "svg/import/styling-css-07-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "26b0a5b7c2368d82",
+      "source": "svg/import/styling-css-08-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6638f51cfe38b311",
+      "source": "svg/import/styling-css-09-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d4d2aa729cea3f17",
+      "source": "svg/import/styling-css-10-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f1f135b3959ab293",
+      "source": "svg/import/styling-elem-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cac4742a47bdbee3",
+      "source": "svg/import/styling-inherit-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2bcf63a42848a91a",
+      "source": "svg/import/styling-pres-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1d699c25205f8075",
+      "source": "svg/import/styling-pres-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f126e26ac27c6311",
+      "source": "svg/import/styling-pres-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1c70ad7e11cecaf1",
+      "source": "svg/import/styling-pres-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9ba428a0b657829c",
+      "source": "svg/import/styling-pres-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "91eefd037752a8f2",
+      "source": "svg/import/svgdom-over-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cebbee0b6d6c1cbe",
+      "source": "svg/import/text-align-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "19edd4432d28faf8",
+      "source": "svg/import/text-align-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1faf4ba3c45a44c3",
+      "source": "svg/import/text-align-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cd373ec2689b08d6",
+      "source": "svg/import/text-align-04-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6139b7e05e79deff",
+      "source": "svg/import/text-align-05-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "61af663677e7c551",
+      "source": "svg/import/text-align-06-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3cc572fe35b2920c",
+      "source": "svg/import/text-align-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "82482f08c8894e47",
+      "source": "svg/import/text-align-08-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7b493e083bdd7285",
+      "source": "svg/import/text-altglyph-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "026a88f47d64924a",
+      "source": "svg/import/text-altglyph-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "51a13d11725e425b",
+      "source": "svg/import/text-altglyph-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e19c8f6f8380cd1c",
+      "source": "svg/import/text-bidi-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "46b2e358536acf45",
+      "source": "svg/import/text-deco-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1f02cb36ce5e2f14",
+      "source": "svg/import/text-dom-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bb8cbdcac1f1b0a1",
+      "source": "svg/import/text-dom-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "33fcdd56a972c4ce",
+      "source": "svg/import/text-dom-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "03efdb8b0318517c",
+      "source": "svg/import/text-dom-04-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c5139551aba9f6f0",
+      "source": "svg/import/text-dom-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "53cb4be339189fd5",
+      "source": "svg/import/text-fonts-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1d5c9fbe665fdbbc",
+      "source": "svg/import/text-fonts-02-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "61f17bb99e6848e7",
+      "source": "svg/import/text-fonts-03-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "34760ab3624ec796",
+      "source": "svg/import/text-fonts-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "24ed3566fc797543",
+      "source": "svg/import/text-fonts-05-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8e730ff59f7cf4c1",
+      "source": "svg/import/text-fonts-202-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f5bc0ac3de151f2a",
+      "source": "svg/import/text-fonts-203-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4b926308dd88efad",
+      "source": "svg/import/text-fonts-204-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "15bda2f1d725ec60",
+      "source": "svg/import/text-intro-01-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "312f41ff642dc41a",
+      "source": "svg/import/text-intro-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f28f3dad1da39bd3",
+      "source": "svg/import/text-intro-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "62878597865752e0",
+      "source": "svg/import/text-intro-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "938d8206d392ac7d",
+      "source": "svg/import/text-intro-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7a7e1830cb3750a0",
+      "source": "svg/import/text-intro-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "458865ae0589c19c",
+      "source": "svg/import/text-intro-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "577e7ad750d89704",
+      "source": "svg/import/text-intro-09-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1b1b71458c6f1c10",
+      "source": "svg/import/text-intro-10-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "58bc98309c7a8663",
+      "source": "svg/import/text-intro-11-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b4b298af1748b8ec",
+      "source": "svg/import/text-intro-12-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b49934a0e24c72a0",
+      "source": "svg/import/text-path-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a29309fb76ec0af6",
+      "source": "svg/import/text-path-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9f578bc18d4d9b81",
+      "source": "svg/import/text-spacing-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0df2d22aea62a51c",
+      "source": "svg/import/text-text-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "74778403d31e060f",
+      "source": "svg/import/text-text-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "371a79ba71555007",
+      "source": "svg/import/text-text-04-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c0b52a1ed9a9feb8",
+      "source": "svg/import/text-text-05-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2a1ad51ab844811c",
+      "source": "svg/import/text-text-06-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3c20fbc65f91e47d",
+      "source": "svg/import/text-text-07-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5e61976e124d9648",
+      "source": "svg/import/text-text-08-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bd7874e5dae80274",
+      "source": "svg/import/text-text-09-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4ff3115a63e2da98",
+      "source": "svg/import/text-text-10-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "249edb1eba995d2b",
+      "source": "svg/import/text-text-11-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8e8bd9414606eb18",
+      "source": "svg/import/text-text-12-t-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e4d146f8a09174eb",
+      "source": "svg/import/text-tref-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2678f782a6eb4474",
+      "source": "svg/import/text-tselect-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7409f0962d89e31e",
+      "source": "svg/import/text-tselect-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "810f421b1fb412b3",
+      "source": "svg/import/text-tselect-03-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4472022b6e14a8f6",
+      "source": "svg/import/text-tspan-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "dfe57d066b06f9e3",
+      "source": "svg/import/text-tspan-02-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b3b520ec95bfc312",
+      "source": "svg/import/types-basic-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "94af25d3ad451487",
+      "source": "svg/import/types-basic-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7a21eb2f58051ad9",
+      "source": "svg/import/types-dom-01-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "60ccf06cc577aa63",
+      "source": "svg/import/types-dom-02-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7947cce251567a70",
+      "source": "svg/import/types-dom-03-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "55735418f5d8fa30",
+      "source": "svg/import/types-dom-04-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0a5a27b02251f085",
+      "source": "svg/import/types-dom-05-b-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d2cae4fa52d3249f",
+      "source": "svg/import/types-dom-06-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "17ea9aca65201e36",
+      "source": "svg/import/types-dom-07-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ec58cb3bd3641995",
+      "source": "svg/import/types-dom-08-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0666167a83250826",
+      "source": "svg/import/types-dom-svgfittoviewbox-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9025e775a593a1a4",
+      "source": "svg/import/types-dom-svglengthlist-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "92721bbc15353320",
+      "source": "svg/import/types-dom-svgnumberlist-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6bbd3a1013925cd4",
+      "source": "svg/import/types-dom-svgstringlist-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fb8a6ba0aa5ab33e",
+      "source": "svg/import/types-dom-svgtransformable-01-f-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "45716039bbeb83d0",
+      "source": "svg/interact/inheritance.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f7dd57dd9cc7e8ee",
+      "source": "svg/interact/manual/event-attribute-001-manual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3bac16344d23af7f",
+      "source": "svg/interact/parsing/pointer-events-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "92da2fbfe9dadf5b",
+      "source": "svg/interact/parsing/pointer-events-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "677f711bfbd2d477",
+      "source": "svg/interact/parsing/pointer-events-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6db0797df0da159e",
+      "source": "svg/interact/script-content.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d9fd4bfd9e42ba2b",
+      "source": "svg/interact/scripted/async-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ed2e2621014f8b39",
+      "source": "svg/interact/scripted/composed.window.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a3aae6b84b7bac3e",
+      "source": "svg/interact/scripted/defer-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6d8e70238370cae9",
+      "source": "svg/interact/scripted/focus-events.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9db376a8a5940200",
+      "source": "svg/interact/scripted/focus-tabindex-default-value.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "226d979ee430e333",
+      "source": "svg/interact/scripted/focus-tabindex-invalid-value.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f476e2d4396af892",
+      "source": "svg/interact/scripted/module-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e47e44cd23fd5b16",
+      "source": "svg/interact/scripted/tabindex-focus-flag.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f7230f16abfc688e",
+      "source": "svg/linking/reftests/reference/green-100x100.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3012103830fd2303",
+      "source": "svg/linking/reftests/url-processing-whitespace-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6df66baaa60d28f9",
+      "source": "svg/linking/reftests/url-processing-whitespace-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2934559b9da93bc4",
+      "source": "svg/linking/reftests/url-processing-whitespace-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2ded5fe3b20fa129",
+      "source": "svg/linking/reftests/url-reference-local-textpath.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d86fa23bbeba1575",
+      "source": "svg/linking/scripted/a-download-click.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "71edc2aa23ef646e",
+      "source": "svg/linking/scripted/a.hreflang-getter-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f2bcbaf84e8b74bb",
+      "source": "svg/linking/scripted/a.hreflang-setter-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3070b5594515827e",
+      "source": "svg/linking/scripted/a.hyperlink-getter-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "04d9a3c393ade120",
+      "source": "svg/linking/scripted/a.rel-getter-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8fe7017aff825b39",
+      "source": "svg/linking/scripted/a.rel-setter-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6ccfec8a0ab720e7",
+      "source": "svg/linking/scripted/a.type-getter-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "946d2fb2e40b9e9f",
+      "source": "svg/linking/scripted/a.type-getter-02.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e8aa298677ce3cf8",
+      "source": "svg/linking/scripted/a.type-setter-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a03b7a68616cbfa7",
+      "source": "svg/linking/scripted/rellist-feature-detection.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b774d9495604a8d2",
+      "source": "svg/painting/color-interpolation-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "927075e9ed416b03",
+      "source": "svg/painting/currentColor-override-pserver-fallback-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bcc34a97de239123",
+      "source": "svg/painting/currentColor-override-pserver-fallback.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d9fbe1291f286dd2",
+      "source": "svg/painting/currentColor-override-pserver-fill-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "98b7c41843e6bad5",
+      "source": "svg/painting/currentColor-override-pserver-fill.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1302c4916e37c185",
+      "source": "svg/painting/currentColor-override-pserver-stroke-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3f50faa387c05ba5",
+      "source": "svg/painting/currentColor-override-pserver-stroke.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f1def4d78203e4e2",
+      "source": "svg/painting/inheritance.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a6a2753753585f12",
+      "source": "svg/painting/marker-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c7f6f3d14989fbfe",
+      "source": "svg/painting/marker-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "443c925d2deefd70",
+      "source": "svg/painting/marker-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e665fc4c3ebe0dd7",
+      "source": "svg/painting/marker-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bef3d160388eba9f",
+      "source": "svg/painting/marker-003-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b5a07047771541af",
+      "source": "svg/painting/marker-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3f403fb434b95cdb",
+      "source": "svg/painting/marker-004-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b0ed5d886286b466",
+      "source": "svg/painting/marker-004.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bc808fac63f066a6",
+      "source": "svg/painting/marker-005-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7d3c2f8572c789ec",
+      "source": "svg/painting/marker-005.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "25626ba41eae3bff",
+      "source": "svg/painting/marker-006-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6d2d902492bf9983",
+      "source": "svg/painting/marker-006.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a45c5fc651bf00df",
+      "source": "svg/painting/marker-007-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e9084178c2cf7877",
+      "source": "svg/painting/marker-007.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9197c97880981e5a",
+      "source": "svg/painting/marker-008-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0a098d3543550129",
+      "source": "svg/painting/marker-008.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "777545aec0787586",
+      "source": "svg/painting/marker-009-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "afbca2354b4c6894",
+      "source": "svg/painting/marker-009.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "733ec8a3a327086a",
+      "source": "svg/painting/marker-orient-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8277110c68662488",
+      "source": "svg/painting/marker-orient-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f07441e3c998fa4c",
+      "source": "svg/painting/mask-containing-image-with-clip-path.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c09b49a7046e2ca0",
+      "source": "svg/painting/parsing/color-interpolation-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cd30043225a75d34",
+      "source": "svg/painting/parsing/color-interpolation-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4852b631de299e3f",
+      "source": "svg/painting/parsing/color-interpolation-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fc66d2f0584b0c0d",
+      "source": "svg/painting/parsing/fill-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "de30f67de2e3997d",
+      "source": "svg/painting/parsing/fill-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e5a979d2ab9a9cd8",
+      "source": "svg/painting/parsing/fill-opacity-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d3994fe36c2913b5",
+      "source": "svg/painting/parsing/fill-opacity-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4ae3c9798041e94d",
+      "source": "svg/painting/parsing/fill-opacity-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2f2b9ad8ac59bca7",
+      "source": "svg/painting/parsing/fill-rule-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0a71d02c738c17be",
+      "source": "svg/painting/parsing/fill-rule-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c5f173bc0c4a8baf",
+      "source": "svg/painting/parsing/fill-rule-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "80565007c2e2291d",
+      "source": "svg/painting/parsing/fill-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5bf68d59be2c36bc",
+      "source": "svg/painting/parsing/image-rendering-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e40fc74531ac71b4",
+      "source": "svg/painting/parsing/image-rendering-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7860b984d5c1e854",
+      "source": "svg/painting/parsing/image-rendering-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e37b169c9162eb12",
+      "source": "svg/painting/parsing/marker-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3292ff986c6bf208",
+      "source": "svg/painting/parsing/marker-end-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "dbc2bccf3695cf02",
+      "source": "svg/painting/parsing/marker-end-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2bddbbe91e34053e",
+      "source": "svg/painting/parsing/marker-end-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4859ef5d76bbd342",
+      "source": "svg/painting/parsing/marker-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "df35764de7cbaa91",
+      "source": "svg/painting/parsing/marker-mid-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8a6e24cf520f50ab",
+      "source": "svg/painting/parsing/marker-mid-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2154e9ad9c49785b",
+      "source": "svg/painting/parsing/marker-mid-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e3e867da8a56900e",
+      "source": "svg/painting/parsing/marker-shorthand.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4e05d0564281f73e",
+      "source": "svg/painting/parsing/marker-start-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8abf1773899795d2",
+      "source": "svg/painting/parsing/marker-start-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b8cf0e02dd8bbe88",
+      "source": "svg/painting/parsing/marker-start-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5b6b38fd46ab5dd6",
+      "source": "svg/painting/parsing/marker-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e96dd5b940e04c50",
+      "source": "svg/painting/parsing/paint-order-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "eaace73d83065b32",
+      "source": "svg/painting/parsing/paint-order-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "df170981df4e468a",
+      "source": "svg/painting/parsing/paint-order-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "80b36a90f1149c13",
+      "source": "svg/painting/parsing/shape-rendering-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0c0a51a34b1b72d2",
+      "source": "svg/painting/parsing/shape-rendering-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ea2a42bce4f38433",
+      "source": "svg/painting/parsing/shape-rendering-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e9cf16e11d62a0e9",
+      "source": "svg/painting/parsing/stroke-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6e6d354258d5aca7",
+      "source": "svg/painting/parsing/stroke-dasharray-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f5ea3ee1bc8f2f50",
+      "source": "svg/painting/parsing/stroke-dasharray-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1a323c2279b62280",
+      "source": "svg/painting/parsing/stroke-dasharray-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1a5975a158072ee7",
+      "source": "svg/painting/parsing/stroke-dashoffset-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fb2b39cef2d366fe",
+      "source": "svg/painting/parsing/stroke-dashoffset-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e5633ecca4893083",
+      "source": "svg/painting/parsing/stroke-dashoffset-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f1c15f0041509c05",
+      "source": "svg/painting/parsing/stroke-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e7eaa16814a8f528",
+      "source": "svg/painting/parsing/stroke-linecap-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4ef743c4c11da506",
+      "source": "svg/painting/parsing/stroke-linecap-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a128667c73ad7de0",
+      "source": "svg/painting/parsing/stroke-linecap-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6346109710da8bd7",
+      "source": "svg/painting/parsing/stroke-linejoin-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3c6901bf0d649d72",
+      "source": "svg/painting/parsing/stroke-linejoin-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1639b7c951cd7f50",
+      "source": "svg/painting/parsing/stroke-linejoin-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1f680bfe91f921e6",
+      "source": "svg/painting/parsing/stroke-miterlimit-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "221a042753e067ac",
+      "source": "svg/painting/parsing/stroke-miterlimit-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c59092270c1a6fc4",
+      "source": "svg/painting/parsing/stroke-miterlimit-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fcecca464e0d1019",
+      "source": "svg/painting/parsing/stroke-opacity-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "dbec0bd1337b310a",
+      "source": "svg/painting/parsing/stroke-opacity-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f919f73fa3db954f",
+      "source": "svg/painting/parsing/stroke-opacity-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "60dda180db686c84",
+      "source": "svg/painting/parsing/stroke-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e8f4a4ec315869ba",
+      "source": "svg/painting/parsing/stroke-width-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1c36bc33ded72fd4",
+      "source": "svg/painting/parsing/stroke-width-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cceb8d8a2463a1ea",
+      "source": "svg/painting/parsing/stroke-width-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f3ce57c00d055a36",
+      "source": "svg/painting/parsing/text-rendering-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "85b2df4003d633ac",
+      "source": "svg/painting/parsing/text-rendering-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a40b4fd85c8b53f1",
+      "source": "svg/painting/parsing/text-rendering-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "49d3c121fea1259f",
+      "source": "svg/painting/reftests/fallback-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "81a21458d92f9d04",
+      "source": "svg/painting/reftests/fallback-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b14b1c45a9a9cba0",
+      "source": "svg/painting/reftests/gradient-external-reference.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b2354f49cd04a95a",
+      "source": "svg/painting/reftests/green-100x100.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ec2ec0124dc4c05d",
+      "source": "svg/painting/reftests/marker-external-reference.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "00574fb03e572958",
+      "source": "svg/painting/reftests/marker-path-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "70fb24b1b88bd312",
+      "source": "svg/painting/reftests/marker-path-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2293926328270c04",
+      "source": "svg/painting/reftests/marker-path-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "672fa2a3c8d83d42",
+      "source": "svg/painting/reftests/marker-path-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f2bfcf82150814b0",
+      "source": "svg/painting/reftests/marker-path-003-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "67884e7afef920ef",
+      "source": "svg/painting/reftests/marker-path-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c9456915e68aabb1",
+      "source": "svg/painting/reftests/marker-path-011-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e65eeddac374a2c0",
+      "source": "svg/painting/reftests/marker-path-011.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e6c964d703e033ba",
+      "source": "svg/painting/reftests/marker-path-012-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e3d358b068a339c4",
+      "source": "svg/painting/reftests/marker-path-012.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a992ddde3744e7c9",
+      "source": "svg/painting/reftests/marker-path-013-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ecd8e35584d1037b",
+      "source": "svg/painting/reftests/marker-path-013.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7740ee6092f3b921",
+      "source": "svg/painting/reftests/marker-path-021-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "72d855ca5da8c92d",
+      "source": "svg/painting/reftests/marker-path-021.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "68696adecda024be",
+      "source": "svg/painting/reftests/marker-path-022-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a863818b54442eb6",
+      "source": "svg/painting/reftests/marker-path-022.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a2714361e5c912d3",
+      "source": "svg/painting/reftests/marker-path-023-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "af6093d5f0d1b45e",
+      "source": "svg/painting/reftests/marker-path-023.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a85337fe92f0f946",
+      "source": "svg/painting/reftests/marker-units-strokewidth-non-scaling-stroke.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "68c1b211eacd7fa5",
+      "source": "svg/painting/reftests/marker-units-userspaceonuse-non-scaling-stroke.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "55d541f7540c1065",
+      "source": "svg/painting/reftests/markers-orient-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "09e7341dce32471b",
+      "source": "svg/painting/reftests/markers-orient-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8c083988cc1c6b4c",
+      "source": "svg/painting/reftests/markers-orient-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "98786984ac51149e",
+      "source": "svg/painting/reftests/mask-print-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cf5358f28001427e",
+      "source": "svg/painting/reftests/mask-print.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e4bc3c5d49f0ac2a",
+      "source": "svg/painting/reftests/paint-context-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "52a38c497edcb55a",
+      "source": "svg/painting/reftests/paint-context-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "80fbc3235da0e23f",
+      "source": "svg/painting/reftests/paint-context-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7644df09bab27c8a",
+      "source": "svg/painting/reftests/paint-context-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c08e888b24c33dd3",
+      "source": "svg/painting/reftests/paint-context-003-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "24de99270188c448",
+      "source": "svg/painting/reftests/paint-context-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d44c602c1b61130f",
+      "source": "svg/painting/reftests/paint-context-004-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "27dcb6cc02c0418c",
+      "source": "svg/painting/reftests/paint-context-004.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b44299eb0c1b3cb8",
+      "source": "svg/painting/reftests/paint-context-005.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "36963c27158b4c60",
+      "source": "svg/painting/reftests/paint-context-006-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "089f01e911b1bb65",
+      "source": "svg/painting/reftests/paint-context-006.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5c4958620bc7f62e",
+      "source": "svg/painting/reftests/paint-context-007-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "51577bf7d616457f",
+      "source": "svg/painting/reftests/paint-context-007.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "48e5a9e749b9a139",
+      "source": "svg/painting/reftests/paint-context-008-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2fbdbfb3ac38bc71",
+      "source": "svg/painting/reftests/paint-context-008.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b824e8eb5552a19b",
+      "source": "svg/painting/reftests/paint-order-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d6d92886c56078c8",
+      "source": "svg/painting/reftests/paint-order-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "20aa6306a7aec43c",
+      "source": "svg/painting/reftests/paint-order-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1a9c5e8ba233f55d",
+      "source": "svg/painting/reftests/paint-order-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8813e2169740d96f",
+      "source": "svg/painting/reftests/paint-order-003-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "06d643b6e7459b2a",
+      "source": "svg/painting/reftests/paint-order-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "503444e0fc3db4e9",
+      "source": "svg/painting/reftests/paint-order-text-decorations-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a4adb648c9b2b0be",
+      "source": "svg/painting/reftests/paint-order-text-decorations.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f11863e192b9e88c",
+      "source": "svg/painting/reftests/pattern-external-reference.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "82a5477b3dab9064",
+      "source": "svg/painting/reftests/percentage-attribute.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "461a3cd2413c9770",
+      "source": "svg/painting/reftests/percentage-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8c514a207b75c226",
+      "source": "svg/painting/reftests/percentage.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "de0b72157d0a54ac",
+      "source": "svg/painting/scripted/paint-order-computed-value-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "617d2de02b37adc9",
+      "source": "svg/path/bearing/absolute-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "62875a40d09a91fa",
+      "source": "svg/path/bearing/absolute.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "26a538c2ad50f991",
+      "source": "svg/path/bearing/relative-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6da8ff3113a6fc10",
+      "source": "svg/path/bearing/relative.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0624184dc3f440ba",
+      "source": "svg/path/bearing/zero-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "16cc5abc8ccd0591",
+      "source": "svg/path/bearing/zero.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5f4df9ed8e4d24fc",
+      "source": "svg/path/distance/pathLength-positive-percentage.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "493e7a635c2e2774",
+      "source": "svg/path/distance/pathLength-positive-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "83217b6309c8370a",
+      "source": "svg/path/distance/pathLength-positive.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "885795933ead115a",
+      "source": "svg/path/distance/pathLength-zero-percentage-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3d20404ca17be49b",
+      "source": "svg/path/distance/pathLength-zero-percentage.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "37f98fb6a1f94e41",
+      "source": "svg/path/distance/pathLength-zero-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1565a5736115691f",
+      "source": "svg/path/distance/pathLength-zero.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d0dcba6abe894794",
+      "source": "svg/path/distance/pathlength-circle-mutating.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3954a3017c37d5a0",
+      "source": "svg/path/distance/pathlength-path-mutating.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6b05b33524f42c55",
+      "source": "svg/path/distance/pathlength-path-negative.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "279f124f3ccf4a62",
+      "source": "svg/path/distance/pathlength-path-zero.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "42493a64ea5405e3",
+      "source": "svg/path/distance/pathlength-path.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "380e966b1c4133ac",
+      "source": "svg/path/distance/pathlength-rect-mutating.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "307c865e49f223e8",
+      "source": "svg/path/distance/pathlength-rect.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d92de19f2845fd0a",
+      "source": "svg/path/distance/reference/pathlength-path-mutating-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c574f9b679f63b1b",
+      "source": "svg/path/distance/reference/pathlength-path-negative-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f2c4a474164fd7b7",
+      "source": "svg/path/distance/reference/pathlength-path-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e6fa1521282dfac2",
+      "source": "svg/path/distance/reference/pathlength-path-zero-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fd198cd2b33d35b0",
+      "source": "svg/path/distance/reference/pathlength-rect-mutating-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "99a534f89fc264c9",
+      "source": "svg/path/distance/reference/pathlength-rect-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4e548d60a71cc455",
+      "source": "svg/path/error-handling/bounding.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "87b649f2f7e04c07",
+      "source": "svg/path/error-handling/render-until-error-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ba8ee8f67d2ae47f",
+      "source": "svg/path/error-handling/render-until-error.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "849fa3bc5d521054",
+      "source": "svg/path/interfaces/SVGAnimatedPathData-removed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ea25fd2185d3fa46",
+      "source": "svg/path/interfaces/SVGPathSegment.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c50e721128ec1774",
+      "source": "svg/path/property/d-interpolation-discrete.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2f78deb5ebc8be39",
+      "source": "svg/path/property/d-interpolation-relative-absolute.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "61ff066f2111cf1d",
+      "source": "svg/path/property/d-interpolation-single.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a1673d3a6813ddb2",
+      "source": "svg/path/property/d-none-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5c78fc4a9783cb90",
+      "source": "svg/path/property/d-none-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "580a78df6ca8ce31",
+      "source": "svg/path/property/d-none.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5d354f9874946db9",
+      "source": "svg/path/property/getComputedStyle.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2add4ff8610d9ee9",
+      "source": "svg/path/property/marker-path-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cd827b641bd8201b",
+      "source": "svg/path/property/marker-path.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2a2c594fb0b07d42",
+      "source": "svg/path/property/mpath-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1b95e50a9e4ebdd7",
+      "source": "svg/path/property/mpath.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f59436db3db368c3",
+      "source": "svg/path/property/priority-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "21687b84bc8e024b",
+      "source": "svg/path/property/priority.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "eddec68a8f53018f",
+      "source": "svg/path/property/serialization.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1dde8e02379f53a7",
+      "source": "svg/pservers/inheritance.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8817d972825ef88b",
+      "source": "svg/pservers/parsing/stop-color-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4c580be12ec1f6a0",
+      "source": "svg/pservers/parsing/stop-color-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9f209ccd63be7e25",
+      "source": "svg/pservers/parsing/stop-color-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4fdd57b23238699a",
+      "source": "svg/pservers/parsing/stop-opacity-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b89c2496aa763494",
+      "source": "svg/pservers/parsing/stop-opacity-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "914a6aeba3e05762",
+      "source": "svg/pservers/parsing/stop-opacity-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "89f9ff64253fb356",
+      "source": "svg/pservers/reftests/fill-fallback-currentcolor-1.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d0082a039d757e6f",
+      "source": "svg/pservers/reftests/fill-fallback-currentcolor-2.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "00cbda817dff3eb4",
+      "source": "svg/pservers/reftests/fill-fallback-invalid-uri.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1d2d8722b736edf5",
+      "source": "svg/pservers/reftests/fill-fallback-none-1.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "60fbf1b71b6f78f7",
+      "source": "svg/pservers/reftests/fill-fallback-none-2.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0bc020ddc5fdd9cc",
+      "source": "svg/pservers/reftests/fill-fallback-none-3.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "36d6c5f0f9411b08",
+      "source": "svg/pservers/reftests/gradient-color-interpolation.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e4e8e010e51fad3a",
+      "source": "svg/pservers/reftests/gradient-objectBoundingBox-absolute-units.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3efb9badb4bd1160",
+      "source": "svg/pservers/reftests/gradient-transform-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "66e456bbfc56a19d",
+      "source": "svg/pservers/reftests/gradient-transform-02.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "da488f2dcfbffc7a",
+      "source": "svg/pservers/reftests/gradient-transform-03.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2734404f6b22489b",
+      "source": "svg/pservers/reftests/pattern-inheritance-template-pattern-removed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5afeef9b2764a591",
+      "source": "svg/pservers/reftests/pattern-opacity-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e8ce7769c07cf19b",
+      "source": "svg/pservers/reftests/pattern-text-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8df8fe528b827884",
+      "source": "svg/pservers/reftests/pattern-transform-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2f847f69b0cfc8d3",
+      "source": "svg/pservers/reftests/pattern-transform-02.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ea04bf6e133609b6",
+      "source": "svg/pservers/reftests/pattern-transform-03.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b9127c511cbabe9b",
+      "source": "svg/pservers/reftests/pattern-viewbox-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "aa8f36f238b2d3b2",
+      "source": "svg/pservers/reftests/radialgradient-basic-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fc17d01e57e2390c",
+      "source": "svg/pservers/reftests/radialgradient-basic-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "da6293b6b6c53c4c",
+      "source": "svg/pservers/reftests/radialgradient-fully-overlapping.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4fa1d0c6caeb9da4",
+      "source": "svg/pservers/reftests/reference/gradient-color-interpolation-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "41dcf500c71cbdb4",
+      "source": "svg/pservers/reftests/reference/gradient-objectBoundingBox-absolute-units-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3df2bdccb6e38028",
+      "source": "svg/pservers/reftests/reference/green-100x100.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d47b6303d5891a73",
+      "source": "svg/pservers/reftests/reference/pattern-opacity-01-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3ad1a11be8fc8014",
+      "source": "svg/pservers/reftests/reference/pattern-transform-01-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3bf5c706d6febfe6",
+      "source": "svg/pservers/reftests/reference/pattern-viewbox-01-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e8c73bb311709a75",
+      "source": "svg/pservers/reftests/stop-color-currentcolor-dynamic-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f1d2fc90881d4110",
+      "source": "svg/pservers/reftests/stroke-fallback-invalid-uri.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7023fab79a09c617",
+      "source": "svg/pservers/scripted/pattern-transform-clear.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b1a1c070afdb3d38",
+      "source": "svg/pservers/scripted/stop-color-inheritance-currentcolor.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bc893ab899d87bcb",
+      "source": "svg/render/order/clip-path-filter-order-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b00fe08d09934a08",
+      "source": "svg/render/order/clip-path-filter-order.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "54c11a9a3528fa46",
+      "source": "svg/render/order/z-index-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "16854a0650b60ca8",
+      "source": "svg/render/order/z-index.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2aae576f1c29cece",
+      "source": "svg/render/reftests/blending-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cedd12306f28dbcc",
+      "source": "svg/render/reftests/blending-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c75e11e7a17ff499",
+      "source": "svg/render/reftests/blending-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cec2401d2e9f4190",
+      "source": "svg/render/reftests/blending-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "366d40a016aace22",
+      "source": "svg/scripted/text-attrs-dxdy-have-length.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "24fc519531a3662f",
+      "source": "svg/scripted/text-attrs-xyrotate-have-length.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fadda653644cba86",
+      "source": "svg/scripted/text-tspan-attrs-have-length.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "db59791380777e8e",
+      "source": "svg/scripted/text-tspan-attrs-indexed-access.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5603f9d2ee215b2e",
+      "source": "svg/scripted/tspan-attrs-dxdy-have-length.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c4b14915c3270d96",
+      "source": "svg/scripted/tspan-attrs-xyrotate-have-length.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "26582cae7b7f40b6",
+      "source": "svg/shapes/circle-01-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3e578a34a3e9ada6",
+      "source": "svg/shapes/circle-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "195b6d9d58d333e5",
+      "source": "svg/shapes/ellipse-01-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3902fc3d4846007d",
+      "source": "svg/shapes/ellipse-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4bb3cd507abdfb21",
+      "source": "svg/shapes/ellipse-02-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "bc5e08dae07df379",
+      "source": "svg/shapes/ellipse-02.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f30eda777b2663ba",
+      "source": "svg/shapes/ellipse-03-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2e268c2de1689039",
+      "source": "svg/shapes/ellipse-03.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0c669ee5fff48423",
+      "source": "svg/shapes/ellipse-04-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ff14b78262201c5c",
+      "source": "svg/shapes/ellipse-04.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "67aac45dd6e8ce73",
+      "source": "svg/shapes/ellipse-05.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4d754c5097cbb1c3",
+      "source": "svg/shapes/ellipse-06.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "02f59538b35a6a80",
+      "source": "svg/shapes/ellipse-07-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ee79ac654776fb39",
+      "source": "svg/shapes/ellipse-07.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2be65c2bc8adc922",
+      "source": "svg/shapes/ellipse-08.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2c787bad302ac521",
+      "source": "svg/shapes/ellipse-09.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ef43731c1f40a6d8",
+      "source": "svg/shapes/line-dasharray-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "18ca41c5e9ab0aee",
+      "source": "svg/shapes/line-dasharray.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6f4df6ef1d3dcbcb",
+      "source": "svg/shapes/line-getPointAtLength.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d500d0a543b2ed04",
+      "source": "svg/shapes/line-pathLength.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "032bf28af954e412",
+      "source": "svg/shapes/rect-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b806893f55b3945b",
+      "source": "svg/shapes/rect-02.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "531094d0f8870a7a",
+      "source": "svg/shapes/rect-03.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a2e018355074e17e",
+      "source": "svg/shapes/rect-04.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "69e7892a96281ec7",
+      "source": "svg/shapes/rect-05-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3e4c24c0c1a5d402",
+      "source": "svg/shapes/rect-05.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6059f7309f4a64e3",
+      "source": "svg/shapes/rect-rx-set-by-css-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f17c34195f92cd95",
+      "source": "svg/shapes/rect-rx-set-by-css-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "64247cf83f6ed652",
+      "source": "svg/shapes/rect-rx-set-by-css.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f7d38df17954a863",
+      "source": "svg/shapes/reftests/disabled-shapes-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ab3d1ca46caa46b7",
+      "source": "svg/shapes/reftests/pathlength-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c0958394197d5b96",
+      "source": "svg/shapes/reftests/pathlength-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9df1f96f22eadc57",
+      "source": "svg/shapes/reftests/pathlength-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "87799485e007a98b",
+      "source": "svg/shapes/reftests/pathlength-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "dcc06bc123d43da9",
+      "source": "svg/shapes/reftests/pathlength-003-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "319c42921f85b76e",
+      "source": "svg/shapes/reftests/pathlength-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "11a31ac1a694d0e7",
+      "source": "svg/shapes/reftests/pathlength-004-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "35ec1be27d870884",
+      "source": "svg/shapes/reftests/pathlength-004a.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5d10fd4ad02383fa",
+      "source": "svg/shapes/reftests/pathlength-004b.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c0678fbe8060b957",
+      "source": "svg/shapes/reftests/reference/empty.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fc2ad2b68fa11cda",
+      "source": "svg/shapes/rx-ry-not-inherited.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ab03c9297a4a5d8c",
+      "source": "svg/shapes/scripted/disabled-shapes-not-hit.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5009f9e5aea912b6",
+      "source": "svg/shapes/scripted/ellipse-auto-radii.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "351f25f603f13f5a",
+      "source": "svg/shapes/scripted/shapes-clip-path.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0cbc2a645c9d882d",
+      "source": "svg/shapes/scripted/stroke-dashes-hit-at-high-scale.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "25c8d1a5ec33a4f1",
+      "source": "svg/struct/reftests/currentScale.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7a9efb0e537c4cfb",
+      "source": "svg/struct/reftests/gradient-in-symbol.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f325bedbb00d3810",
+      "source": "svg/struct/reftests/image-symbol.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f76a87364afea770",
+      "source": "svg/struct/reftests/inner-svg-css-transform.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f393e98de2065e7d",
+      "source": "svg/struct/reftests/inner-svg-rotate-transform.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8c022e5fc08a9973",
+      "source": "svg/struct/reftests/inner-svg-transform-and-viewbox.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b6133ee37f1f60b8",
+      "source": "svg/struct/reftests/inner-svg-transform.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "13af06f8271e2f72",
+      "source": "svg/struct/reftests/nested-svg-through-display-contents.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "049da7d60f455140",
+      "source": "svg/struct/reftests/outer-svg-transform.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0164f065ef97c490",
+      "source": "svg/struct/reftests/reference/green-100x100.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d2695f9e0caf9323",
+      "source": "svg/struct/reftests/reference/inner-svg-rotate-transform-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "70f12517724e9d0f",
+      "source": "svg/struct/reftests/reference/inner-svg-transform-and-viewbox-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fa16f2c9577b8e42",
+      "source": "svg/struct/reftests/reference/inner-svg-transform-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "20a57effc29b8e4a",
+      "source": "svg/struct/reftests/reference/outer-svg-transform-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "12fc93112a06f806",
+      "source": "svg/struct/reftests/reference/symbol-not-rendered.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "02f65f93c66c456e",
+      "source": "svg/struct/reftests/reference/use-external-use-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "80fba19db404043c",
+      "source": "svg/struct/reftests/reference/use-image-href-mutating-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "11ab2008e89a6898",
+      "source": "svg/struct/reftests/requiredextensions-empty-string.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "88ec2b504ed935ca",
+      "source": "svg/struct/reftests/svg-getIntersectionList-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ec9a0965e360a4d0",
+      "source": "svg/struct/reftests/sync-svg-attributes-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fd8c8ca2be5a0e58",
+      "source": "svg/struct/reftests/sync-svg-attributes.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e6fce5f9371521ca",
+      "source": "svg/struct/reftests/use-a.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3ec84033f8d68b15",
+      "source": "svg/struct/reftests/use-cross-origin.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d1d26f1b2709489d",
+      "source": "svg/struct/reftests/use-encoding.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8fc092030cc5706b",
+      "source": "svg/struct/reftests/use-external-use.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4898f4197da078b9",
+      "source": "svg/struct/reftests/use-image-href-mutating-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5dc210ff2831f5e9",
+      "source": "svg/struct/reftests/use-image-href-mutating.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "786d1ac804ebb5e2",
+      "source": "svg/struct/reftests/use-inheritance-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "99e7f2cfe6e6b237",
+      "source": "svg/struct/reftests/use-inheritance-nth-child-of.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3a58f38640795d47",
+      "source": "svg/struct/reftests/use-inheritance-nth-last-child-of.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "36ea029a85420641",
+      "source": "svg/struct/reftests/use-no-tspan.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5a68d7cacc3bfa77",
+      "source": "svg/struct/reftests/use-same-origin.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d128f872a7ce9a15",
+      "source": "svg/struct/reftests/use-svg-dimensions-override-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "44044cdb60a1abb3",
+      "source": "svg/struct/reftests/use-svg-dimensions-override-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ec909756569ca323",
+      "source": "svg/struct/reftests/use-svg-inline-css.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4f7eba1fd58ff460",
+      "source": "svg/struct/reftests/use-switch.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "95ec734ef9daab2a",
+      "source": "svg/struct/reftests/use-symbol-dimensions-override-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0c79d148751c6926",
+      "source": "svg/struct/reftests/use-symbol-dimensions-override-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a112fe9a4dc0efb1",
+      "source": "svg/struct/reftests/use-symbol-display-none.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2871b40418152e10",
+      "source": "svg/struct/reftests/use-symbol-inline-css-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "28c96fe35fea50c5",
+      "source": "svg/struct/reftests/use-symbol-inline-css-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5443d3e40b610a34",
+      "source": "svg/struct/reftests/use-symbol-inline-css-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "16ebc201afa5ed3e",
+      "source": "svg/struct/scripted/autofocus-attribute.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d82a535d2c9cce23",
+      "source": "svg/struct/scripted/svg-checkIntersection-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "54c2bfe334a18bf8",
+      "source": "svg/struct/scripted/svg-checkIntersection-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ee516d11dd8c2150",
+      "source": "svg/struct/scripted/svg-getIntersectionList-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e41847d3626ca023",
+      "source": "svg/struct/scripted/svg-getIntersectionList-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1d5bd1dafeb029ef",
+      "source": "svg/struct/scripted/svg-getIntersectionList-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "29929058ea144e54",
+      "source": "svg/struct/scripted/svg-getIntersectionList-004.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e985cab60a2a7354",
+      "source": "svg/struct/scripted/svg-getIntersectionList-005.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "207a774b6d761bbc",
+      "source": "svg/struct/scripted/svg-getIntersectionList-006.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2c237fee12d0506b",
+      "source": "svg/styling/color-inherit-link-visited-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1cb8d1442da2f172",
+      "source": "svg/styling/color-inherit-link-visited.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c96a9c07e1f5e235",
+      "source": "svg/styling/css-linked-parameters/circle-with-parameters.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f8d0b242b3473051",
+      "source": "svg/styling/css-var-on-length-attributes-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d7a7cc1795792527",
+      "source": "svg/styling/css-var-on-length-attributes-02.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0c9df88fd681bc7c",
+      "source": "svg/styling/css-var-on-length-attributes-03.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8ee5e95cde7faeb5",
+      "source": "svg/styling/css-var-on-length-attributes-04.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "795e5b3093c78ffc",
+      "source": "svg/styling/css-var-on-length-attributes-05.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "376808dcf6d025dd",
+      "source": "svg/styling/font-size-number-calc-crash.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8d7739cc2f64811b",
+      "source": "svg/styling/image-sizing-min-content-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9d454a641e6eda46",
+      "source": "svg/styling/invalidation/nth-child-of-class-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "71e609b016cc5f28",
+      "source": "svg/styling/invalidation/nth-child-of-class.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4bc8db50a3dcd1c7",
+      "source": "svg/styling/invalidation/nth-last-child-of-class.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b7a41bf9731cb3c3",
+      "source": "svg/styling/nested-svg-sizing-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "28a3dfca58d74e03",
+      "source": "svg/styling/nested-svg-sizing-full-circle-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "719e586602a695df",
+      "source": "svg/styling/nested-svg-sizing-viewport-units-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "94b35d8025742bfc",
+      "source": "svg/styling/nested-svg-sizing-with-use-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "98d7ef0baac05611",
+      "source": "svg/styling/nested-svg-sizing-with-use.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6624560673ceafae",
+      "source": "svg/styling/nested-svg-sizing.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "aece5c3c5a858837",
+      "source": "svg/styling/outermost-svg-sizing-viewport-units-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "92d58fa9c9578b1d",
+      "source": "svg/styling/outermost-svg-sizing-viewport-units.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ae4b0c9b8a69c38b",
+      "source": "svg/styling/rect-sizing-viewport-units-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f74306f38dc5e09a",
+      "source": "svg/styling/rect-sizing-viewport-units.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "830d2f3551ee7805",
+      "source": "svg/styling/render/transform-box-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3f6549a336c6fe46",
+      "source": "svg/styling/render/transform-box.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "44f3aa03de4d46dd",
+      "source": "svg/styling/render/transform-origin-not-explicit-style-visual-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "00985297b2a058de",
+      "source": "svg/styling/render/transform-origin-not-explicit-style-visual.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c88b49ccc4021776",
+      "source": "svg/styling/render/transform-origin-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "748f57e7e5c13939",
+      "source": "svg/styling/render/transform-origin.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3b1876f6c2a0da38",
+      "source": "svg/styling/render/transform-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "61e4dd3cbcc01c67",
+      "source": "svg/styling/render/transform.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "305b1c76dc4645c5",
+      "source": "svg/styling/required-properties.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c1cdf4a39b108c52",
+      "source": "svg/styling/stroke-color-inherit-link-visited-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "099ec39e221321f6",
+      "source": "svg/styling/stroke-color-inherit-link-visited.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "43eda2a1d157cb7d",
+      "source": "svg/styling/style-sheet-interfaces.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ff4f026ef1f0a9f6",
+      "source": "svg/text/crashtests/ruby-crash.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9177ba8b750aa5bd",
+      "source": "svg/text/crashtests/textlength-zwj-crash.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a54a26136c52f23a",
+      "source": "svg/text/inheritance.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "513b3df144117844",
+      "source": "svg/text/parsing/inline-size-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "dbd042209f9015a3",
+      "source": "svg/text/parsing/inline-size-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "35ff2d9c07fe1fc0",
+      "source": "svg/text/parsing/shape-inside-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "00b54f1a74243edb",
+      "source": "svg/text/parsing/shape-inside-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d742122fdce66041",
+      "source": "svg/text/parsing/shape-margin-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "029ee2e780c78159",
+      "source": "svg/text/parsing/shape-margin-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0fd8bde106a40105",
+      "source": "svg/text/parsing/shape-subtract-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "186e1063638482cd",
+      "source": "svg/text/parsing/shape-subtract-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6db46b87dad1d6d8",
+      "source": "svg/text/parsing/text-anchor-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d2ffb2f29bfdd6f5",
+      "source": "svg/text/parsing/text-anchor-invalid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "942e4b59b7c6a15b",
+      "source": "svg/text/parsing/text-anchor-valid.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "91a4416930f9fb85",
+      "source": "svg/text/parsing/text-decoration-color-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "66731c57f92a3801",
+      "source": "svg/text/parsing/text-decoration-line-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0aaaf308de77e48e",
+      "source": "svg/text/parsing/text-decoration-style-computed.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ed87baa4a2084cbc",
+      "source": "svg/text/reftests/dominant-baseline-central-large-font-size-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ee38ccd4bc80dae8",
+      "source": "svg/text/reftests/dominant-baseline-central-large-font-size.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b64f652995273c9d",
+      "source": "svg/text/reftests/dominant-baseline-hanging-small-font-size.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ff80513efa485992",
+      "source": "svg/text/reftests/dominant-baseline-text-after-edge.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "85f403e7528fc1da",
+      "source": "svg/text/reftests/dominant-baseline-text-before-edge.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a1960040fe144210",
+      "source": "svg/text/reftests/first-letter-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2adb8bc9cfb5e222",
+      "source": "svg/text/reftests/first-letter.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fe9fcb6bec548448",
+      "source": "svg/text/reftests/green-100x100.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "8b0fe7c98f576ee2",
+      "source": "svg/text/reftests/lang-attribute-dynamic-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "20b5b88aa8d2d201",
+      "source": "svg/text/reftests/lang-attribute-dynamic.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d449b1392cc7f6e1",
+      "source": "svg/text/reftests/lang-attribute-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5f8afcd7ca8df2bc",
+      "source": "svg/text/reftests/lang-attribute.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "41bfcaa4d71ca9fe",
+      "source": "svg/text/reftests/lengthAdjust-large-font-vertical.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "34a9401f010291c1",
+      "source": "svg/text/reftests/lengthAdjust-large-font.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f670c8977c8c9dfb",
+      "source": "svg/text/reftests/lengthAdjust-vertical.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ff9db70a86758b68",
+      "source": "svg/text/reftests/multiple-textpaths-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "65f010f18966374b",
+      "source": "svg/text/reftests/multiple-textpaths.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "3e503a9f1d6af1aa",
+      "source": "svg/text/reftests/no-background-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1931902d7969edd1",
+      "source": "svg/text/reftests/no-background.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "749d3eb9855aa401",
+      "source": "svg/text/reftests/no-margin-border-padding-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "ce0b17b3739250df",
+      "source": "svg/text/reftests/no-margin-border-padding.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "70d92174ddb5668f",
+      "source": "svg/text/reftests/opacity-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "982f99343ef1e791",
+      "source": "svg/text/reftests/opacity.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f4c8ec2abd3ca79a",
+      "source": "svg/text/reftests/text-bidi-controls-anchors-1-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "018bc5cbb412346b",
+      "source": "svg/text/reftests/text-bidi-controls-anchors-1.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d1147c4d82d83d3c",
+      "source": "svg/text/reftests/text-bidi-controls-anchors-2-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0a303a8bab11648c",
+      "source": "svg/text/reftests/text-bidi-controls-anchors-2.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a6aa2b4349b8bc78",
+      "source": "svg/text/reftests/text-complex-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e06ba46787e21344",
+      "source": "svg/text/reftests/text-complex-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "17e3378a38737b4b",
+      "source": "svg/text/reftests/text-complex-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "992c449d9cdd3f73",
+      "source": "svg/text/reftests/text-complex-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "40ee1f6498db9e75",
+      "source": "svg/text/reftests/text-context-fill-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "831490959e186661",
+      "source": "svg/text/reftests/text-context-fill.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d04d9fdf4a51ca41",
+      "source": "svg/text/reftests/text-font-face-load-image-svg.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "28f80e846f452e9f",
+      "source": "svg/text/reftests/text-inline-size-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b8e9281be1e6b010",
+      "source": "svg/text/reftests/text-inline-size-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "840612e4ce9a83d6",
+      "source": "svg/text/reftests/text-inline-size-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b76b7b7645d8b675",
+      "source": "svg/text/reftests/text-inline-size-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6f3ba48f20fa0e29",
+      "source": "svg/text/reftests/text-inline-size-003-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "61c758a423c97399",
+      "source": "svg/text/reftests/text-inline-size-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "31d052b90b79f7a2",
+      "source": "svg/text/reftests/text-inline-size-005-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "17f6609055ccedd5",
+      "source": "svg/text/reftests/text-inline-size-005.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "2956adacc303b9eb",
+      "source": "svg/text/reftests/text-inline-size-006-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5f7ff064cadbcfd9",
+      "source": "svg/text/reftests/text-inline-size-006.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "55d922ecf71878ea",
+      "source": "svg/text/reftests/text-inline-size-007-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b4dc8ae69965e822",
+      "source": "svg/text/reftests/text-inline-size-007.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "55ba2cfb124e8c7f",
+      "source": "svg/text/reftests/text-inline-size-101-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "532122138eb8ca7f",
+      "source": "svg/text/reftests/text-inline-size-101.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a6e034b9a1df2afc",
+      "source": "svg/text/reftests/text-inline-size-201-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "adc51b5c23652df2",
+      "source": "svg/text/reftests/text-inline-size-201.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "67e6a8d1dfd94e0d",
+      "source": "svg/text/reftests/text-multiline-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "57f8f5deaad402be",
+      "source": "svg/text/reftests/text-multiline-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "74b350eeb0b631e8",
+      "source": "svg/text/reftests/text-multiline-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f4666e7bc3fa722d",
+      "source": "svg/text/reftests/text-multiline-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "49a6566004f7860d",
+      "source": "svg/text/reftests/text-multiline-003-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7fc4acb8e549aa3b",
+      "source": "svg/text/reftests/text-multiline-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b2e12a68f68c20d9",
+      "source": "svg/text/reftests/text-shape-inside-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b4a198a48ac206f8",
+      "source": "svg/text/reftests/text-shape-inside-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "daa6ea98ef74ab8d",
+      "source": "svg/text/reftests/text-shape-inside-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f9e3590293fbb591",
+      "source": "svg/text/reftests/text-shape-inside-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c6121cbf41684fcc",
+      "source": "svg/text/reftests/text-xml-space-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "05ce465f5d856370",
+      "source": "svg/text/reftests/text-xml-space-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "37fdd051f214d99f",
+      "source": "svg/text/reftests/textLength-list-x-spacingAndGlyphs-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "893a859ab0b339fe",
+      "source": "svg/text/reftests/textLength-list-x-spacingAndGlyphs-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c0f2fb70e9cc744e",
+      "source": "svg/text/reftests/textLength-list-x-spacingAndGlyphs.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "41f7ca046f008534",
+      "source": "svg/text/reftests/textLength-list-y-spacing-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a94630a3ffa71f43",
+      "source": "svg/text/reftests/textLength-list-y-spacing-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "54251e416a218da6",
+      "source": "svg/text/reftests/textLength-list-y-spacing.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d9295ed1367444fe",
+      "source": "svg/text/reftests/textLength-list-y-spacingAndGlyphs-expected.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "7adc374372c819f0",
+      "source": "svg/text/reftests/textLength-list-y-spacingAndGlyphs-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b3e8788ade61e8d3",
+      "source": "svg/text/reftests/textLength-list-y-spacingAndGlyphs.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e5340f6e5458c082",
+      "source": "svg/text/reftests/textpath-letter-spacing-01-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "0a44c1240761b1ee",
+      "source": "svg/text/reftests/textpath-letter-spacing-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b3135b8b9d608cb0",
+      "source": "svg/text/reftests/textpath-path-attr-empty-fallback.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "69e93fce12cb6dfe",
+      "source": "svg/text/reftests/textpath-path-attr-invalid-path-fallback.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d0c90dc42522194f",
+      "source": "svg/text/reftests/textpath-path-attr-precedence-over-href.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "08cda8201fdec358",
+      "source": "svg/text/reftests/textpath-path-attr-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c155b722a471b076",
+      "source": "svg/text/reftests/textpath-path-attr-use-up-to-first-error.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "6363f291bf55d0d5",
+      "source": "svg/text/reftests/textpath-path-attr.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cd8bb6a05343ce14",
+      "source": "svg/text/reftests/textpath-shape-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "1e377b59f6df4521",
+      "source": "svg/text/reftests/textpath-shape-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e056e0bff86fe0b1",
+      "source": "svg/text/reftests/textpath-side-001-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "b579d7723a71ad00",
+      "source": "svg/text/reftests/textpath-side-001.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "56976069377027ce",
+      "source": "svg/text/reftests/textpath-side-002-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "eaabd8b2cc0b9652",
+      "source": "svg/text/reftests/textpath-side-002.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9748547439b3f8ff",
+      "source": "svg/text/reftests/textpath-side-003-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "cfb298dc020cc010",
+      "source": "svg/text/reftests/textpath-side-003.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "436e6ee8fe77b2c7",
+      "source": "svg/text/reftests/textpath-side-004-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "77a04d81f53763e4",
+      "source": "svg/text/reftests/textpath-side-004.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "c3d3eeccfa3c0864",
+      "source": "svg/text/reftests/textpath-side-005-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "be6f24f7653e56eb",
+      "source": "svg/text/reftests/textpath-side-005.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "4ed8c55eab722cea",
+      "source": "svg/text/reftests/tspan-opacity-mixed-direction-ref.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9774d056e18b9508",
+      "source": "svg/text/reftests/tspan-opacity-mixed-direction.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "309e808c6e5f798f",
+      "source": "svg/text/reftests/xml-lang-attribute-dynamic.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "afe2174026b037fc",
+      "source": "svg/text/reftests/xml-lang-attribute.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "e0bba8b319458b8a",
+      "source": "svg/text/scripted/textlength-inconsistent.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "d308c06d169fad7c",
+      "source": "svg/types/elements/SVGGeometryElement-rect.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "16134c1f76a6bd9d",
+      "source": "svg/types/helper-SVGElement.ownerSVGElement-02.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a15b59519e98f182",
+      "source": "svg/types/scripted/SVGElement.className-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a728fa6f4baadf51",
+      "source": "svg/types/scripted/SVGGeometryElement.getPointAtLength-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "9e4829c4f68b87be",
+      "source": "svg/types/scripted/SVGGeometryElement.getPointAtLength-02.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "fed387d7beaa43ef",
+      "source": "svg/types/scripted/SVGGeometryElement.getPointAtLength-03.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "47a893f6cbef99dd",
+      "source": "svg/types/scripted/SVGGeometryElement.getPointAtLength-04.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "168688be82fae455",
+      "source": "svg/types/scripted/SVGGeometryElement.getPointAtLength-05.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5ff75e163f3d9f4e",
+      "source": "svg/types/scripted/SVGGeometryElement.getTotalLength-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "654a0253ff840c31",
+      "source": "svg/types/scripted/SVGGeometryElement.isPointInFill-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "40b82bd69752ab5b",
+      "source": "svg/types/scripted/SVGGeometryElement.isPointInStroke-01.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "481d763912939fad",
+      "source": "svg/types/scripted/SVGGeometryElement.isPointInStroke-02.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "258beacd02c10e84",
+      "source": "svg/types/scripted/SVGGraphicsElement-clone.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "5a3263825a911362",
+      "source": "svg/types/scripted/SVGGraphicsElement-padding.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "f46b2bd490a5dd18",
+      "source": "svg/types/scripted/SVGGraphicsElement.svg",
+      "status": "pass",
+      "suite": "wpt"
+    },
+    {
+      "id": "a3f7e3610e49cb04",
+      "source": "svg/types/scripted/event-handler-all-document-element-events.svg",
+      "status": "pass",
+      "suite": "wpt"
+    }
+  ],
+  "schema_version": 1,
+  "source_revisions": {
+    "wpt": {
+      "revision": "aed18189e54793ee12286eb96509e87df27f52dd",
+      "synced_at": "2026-09-09T19:59:17Z",
+      "url": "https://github.com/web-platform-tests/wpt.git"
+    }
+  },
+  "total": 1176
+}
