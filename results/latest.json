@@ -2,7 +2,7 @@
   "counts": {
     "pass": 1176
   },
-  "duration_seconds": 0.896,
+  "duration_seconds": 0.248,
   "eligibility": {
     "eligible": 1176,
     "excluded": {
@@ -12,9 +12,9 @@
     }
   },
   "format": "svg",
-  "generated_at": "2026-09-09T20:17:40Z",
+  "generated_at": "2026-09-09T23:35:43Z",
   "minifier": {
-    "path": "/workspace/scratch/04e13b047c72/conformance-work/minify/minify"
+    "path": "/home/nick/Repositories/nift/minify/minify/minify"
   },
   "results": [
     {
@@ -7078,7 +7078,7 @@
   "source_revisions": {
     "wpt": {
       "revision": "aed18189e54793ee12286eb96509e87df27f52dd",
-      "synced_at": "2026-09-09T19:59:17Z",
+      "synced_at": "2026-09-09T22:35:14Z",
       "url": "https://github.com/web-platform-tests/wpt.git"
     }
   },
